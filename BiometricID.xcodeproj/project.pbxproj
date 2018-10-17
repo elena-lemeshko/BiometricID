@@ -7,25 +7,26 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		F3A319C42087F03700E46316 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3A319B82087F03600E46316 /* ViewController.swift */; };
-		F3A319C52087F03700E46316 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3A319B92087F03600E46316 /* AppDelegate.swift */; };
-		F3A319C62087F03700E46316 /* AuthContext.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3A319BB2087F03600E46316 /* AuthContext.swift */; };
-		F3A319C72087F03700E46316 /* Debug.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3A319BD2087F03700E46316 /* Debug.swift */; };
-		F3A319C82087F03700E46316 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F3A319BF2087F03700E46316 /* Assets.xcassets */; };
-		F3A319C92087F03700E46316 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F3A319C02087F03700E46316 /* LaunchScreen.storyboard */; };
-		F3A319CA2087F03700E46316 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F3A319C22087F03700E46316 /* Main.storyboard */; };
+		F3F2E6AA2177CB8900BDE6C3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3F2E69D2177CB8900BDE6C3 /* ViewController.swift */; };
+		F3F2E6AB2177CB8900BDE6C3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3F2E69E2177CB8900BDE6C3 /* AppDelegate.swift */; };
+		F3F2E6AC2177CB8900BDE6C3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F3F2E6A02177CB8900BDE6C3 /* Assets.xcassets */; };
+		F3F2E6AD2177CB8900BDE6C3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F3F2E6A12177CB8900BDE6C3 /* LaunchScreen.storyboard */; };
+		F3F2E6AE2177CB8900BDE6C3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F3F2E6A32177CB8900BDE6C3 /* Main.storyboard */; };
+		F3F2E6AF2177CB8900BDE6C3 /* Debug.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3F2E6A62177CB8900BDE6C3 /* Debug.swift */; };
+		F3F2E6B02177CB8900BDE6C3 /* AuthContext.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3F2E6A82177CB8900BDE6C3 /* AuthContext.swift */; };
+		F3F2E6B12177CB8900BDE6C3 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = F3F2E6A92177CB8900BDE6C3 /* Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		F3A319A22087EFC000E46316 /* BiometricID.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BiometricID.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		F3A319B12087EFC200E46316 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		F3A319B82087F03600E46316 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		F3A319B92087F03600E46316 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		F3A319BB2087F03600E46316 /* AuthContext.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AuthContext.swift; sourceTree = "<group>"; };
-		F3A319BD2087F03700E46316 /* Debug.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Debug.swift; sourceTree = "<group>"; };
-		F3A319BF2087F03700E46316 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		F3A319C12087F03700E46316 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		F3A319C32087F03700E46316 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		F3F2E69D2177CB8900BDE6C3 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		F3F2E69E2177CB8900BDE6C3 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		F3F2E6A02177CB8900BDE6C3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		F3F2E6A22177CB8900BDE6C3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		F3F2E6A42177CB8900BDE6C3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		F3F2E6A62177CB8900BDE6C3 /* Debug.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Debug.swift; sourceTree = "<group>"; };
+		F3F2E6A82177CB8900BDE6C3 /* AuthContext.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AuthContext.swift; sourceTree = "<group>"; };
+		F3F2E6A92177CB8900BDE6C3 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,7 +43,7 @@
 		F3A319992087EFC000E46316 = {
 			isa = PBXGroup;
 			children = (
-				F3A319A42087EFC000E46316 /* BiometricID */,
+				F3F2E69B2177CB8900BDE6C3 /* BiometricID */,
 				F3A319A32087EFC000E46316 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -55,55 +56,51 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		F3A319A42087EFC000E46316 /* BiometricID */ = {
+		F3F2E69B2177CB8900BDE6C3 /* BiometricID */ = {
 			isa = PBXGroup;
 			children = (
-				F3A319BC2087F03600E46316 /* Common */,
-				F3A319BA2087F03600E46316 /* Model */,
-				F3A319BE2087F03700E46316 /* Resources */,
-				F3A319B72087F03600E46316 /* UI */,
-				F3A319B12087EFC200E46316 /* Info.plist */,
+				F3F2E6A52177CB8900BDE6C3 /* Common */,
+				F3F2E6A72177CB8900BDE6C3 /* Model */,
+				F3F2E69F2177CB8900BDE6C3 /* Resources */,
+				F3F2E69C2177CB8900BDE6C3 /* UI */,
+				F3F2E6A92177CB8900BDE6C3 /* Info.plist */,
 			);
 			path = BiometricID;
 			sourceTree = "<group>";
 		};
-		F3A319B72087F03600E46316 /* UI */ = {
+		F3F2E69C2177CB8900BDE6C3 /* UI */ = {
 			isa = PBXGroup;
 			children = (
-				F3A319B82087F03600E46316 /* ViewController.swift */,
-				F3A319B92087F03600E46316 /* AppDelegate.swift */,
+				F3F2E69D2177CB8900BDE6C3 /* ViewController.swift */,
+				F3F2E69E2177CB8900BDE6C3 /* AppDelegate.swift */,
 			);
-			name = UI;
-			path = ../../TouchID_iOS11/BiometricID/BiometricID/UI;
+			path = UI;
 			sourceTree = "<group>";
 		};
-		F3A319BA2087F03600E46316 /* Model */ = {
+		F3F2E69F2177CB8900BDE6C3 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				F3A319BB2087F03600E46316 /* AuthContext.swift */,
+				F3F2E6A02177CB8900BDE6C3 /* Assets.xcassets */,
+				F3F2E6A12177CB8900BDE6C3 /* LaunchScreen.storyboard */,
+				F3F2E6A32177CB8900BDE6C3 /* Main.storyboard */,
 			);
-			name = Model;
-			path = ../../TouchID_iOS11/BiometricID/BiometricID/Model;
+			path = Resources;
 			sourceTree = "<group>";
 		};
-		F3A319BC2087F03600E46316 /* Common */ = {
+		F3F2E6A52177CB8900BDE6C3 /* Common */ = {
 			isa = PBXGroup;
 			children = (
-				F3A319BD2087F03700E46316 /* Debug.swift */,
+				F3F2E6A62177CB8900BDE6C3 /* Debug.swift */,
 			);
-			name = Common;
-			path = ../../TouchID_iOS11/BiometricID/BiometricID/Common;
+			path = Common;
 			sourceTree = "<group>";
 		};
-		F3A319BE2087F03700E46316 /* Resources */ = {
+		F3F2E6A72177CB8900BDE6C3 /* Model */ = {
 			isa = PBXGroup;
 			children = (
-				F3A319BF2087F03700E46316 /* Assets.xcassets */,
-				F3A319C02087F03700E46316 /* LaunchScreen.storyboard */,
-				F3A319C22087F03700E46316 /* Main.storyboard */,
+				F3F2E6A82177CB8900BDE6C3 /* AuthContext.swift */,
 			);
-			name = Resources;
-			path = ../../TouchID_iOS11/BiometricID/BiometricID/Resources;
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -164,9 +161,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F3A319C82087F03700E46316 /* Assets.xcassets in Resources */,
-				F3A319CA2087F03700E46316 /* Main.storyboard in Resources */,
-				F3A319C92087F03700E46316 /* LaunchScreen.storyboard in Resources */,
+				F3F2E6AC2177CB8900BDE6C3 /* Assets.xcassets in Resources */,
+				F3F2E6AE2177CB8900BDE6C3 /* Main.storyboard in Resources */,
+				F3F2E6AD2177CB8900BDE6C3 /* LaunchScreen.storyboard in Resources */,
+				F3F2E6B12177CB8900BDE6C3 /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -177,28 +175,28 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F3A319C52087F03700E46316 /* AppDelegate.swift in Sources */,
-				F3A319C72087F03700E46316 /* Debug.swift in Sources */,
-				F3A319C62087F03700E46316 /* AuthContext.swift in Sources */,
-				F3A319C42087F03700E46316 /* ViewController.swift in Sources */,
+				F3F2E6AB2177CB8900BDE6C3 /* AppDelegate.swift in Sources */,
+				F3F2E6AA2177CB8900BDE6C3 /* ViewController.swift in Sources */,
+				F3F2E6B02177CB8900BDE6C3 /* AuthContext.swift in Sources */,
+				F3F2E6AF2177CB8900BDE6C3 /* Debug.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		F3A319C02087F03700E46316 /* LaunchScreen.storyboard */ = {
+		F3F2E6A12177CB8900BDE6C3 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				F3A319C12087F03700E46316 /* Base */,
+				F3F2E6A22177CB8900BDE6C3 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
-		F3A319C22087F03700E46316 /* Main.storyboard */ = {
+		F3F2E6A32177CB8900BDE6C3 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				F3A319C32087F03700E46316 /* Base */,
+				F3F2E6A42177CB8900BDE6C3 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
